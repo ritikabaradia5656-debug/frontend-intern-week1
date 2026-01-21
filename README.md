@@ -20,7 +20,10 @@ This project is intentionally built **without CSS or JavaScript** to focus only 
 ---
 
 ## 📂 Project Structure
-
+├── index.html
+├── README.md
+└── images/
+└── profile.jpg
 ---
 
 ## 📄 Page Sections
