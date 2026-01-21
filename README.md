@@ -91,6 +91,8 @@ Frontend Developer Intern
 
 GitHub:  
 https://github.com/ritikabaradia5656-debug
+LIVE:
+https://ritikabaradia5656-debug.github.io/frontend-intern-week1/
 
 ---
 
